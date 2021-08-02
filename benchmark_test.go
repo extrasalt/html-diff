@@ -3,8 +3,6 @@ package htmldiff_test
 import (
 	"strings"
 	"testing"
-
-	"github.com/documize/html-diff"
 )
 
 var cfgBench = &htmldiff.Config{
