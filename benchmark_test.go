@@ -3,6 +3,8 @@ package htmldiff_test
 import (
 	"strings"
 	"testing"
+
+	htmldiff "github.com/extrasalt/html-diff"
 )
 
 var cfgBench = &htmldiff.Config{
